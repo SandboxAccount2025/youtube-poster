@@ -1,3 +1,5 @@
+![header](https://raw.githubusercontent.com/IORoot/youtube-poster/refs/heads/master/header.jpg)
+
 # Github Action for posting to YouTube Channel
 
 For setting up Google API OAUTH
